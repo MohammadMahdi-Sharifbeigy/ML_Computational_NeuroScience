@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Research Question 1: Which Method Works Best and Why?}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Empirical Results}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Analysis}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}1. Effective Regularization of Multicollinearity}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}2. Optimal Bias-Variance Tradeoff}{2}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}3. Information Preservation}{2}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Why OLS Fails}{3}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}Why Lasso Underperforms}{3}{subsubsection.1.2.5}%
+\contentsline {section}{\numberline {2}Research Question 2: Which EEG Features Are Most Predictive?}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Feature Selection Results}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Frequency Band Analysis}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Spatial Topography Analysis}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Neurophysiological Interpretation}{3}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Research Question 3: How Does Optimal $\lambda $ Differ Between Ridge and Lasso?}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Optimal Parameters}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Mathematical Explanation}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Mechanistic Differences}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Practical Implications}{6}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Research Question 4: What Happens Without Feature Standardization?}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Experimental Design}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Empirical Results}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Mechanistic Analysis}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Conclusion}{7}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Summary}{7}{subsection.4.5}%
